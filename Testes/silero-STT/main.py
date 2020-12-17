@@ -1,3 +1,8 @@
+'''
+https://tfhub.dev/silero/silero-stt/en/1
+'''
+
+
 import os
 import torch
 import tensorflow as tf
