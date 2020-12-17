@@ -1,0 +1,6 @@
+torch
+torchaudio
+soundfile
+omegaconf
+intel-tensorflow
+tensorflow_hub
